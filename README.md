@@ -1,0 +1,5 @@
+- 👋 Hi, I am Leonardo Antunes (@Antunes-Leo).
+- 🎓 I am student of Electrical Engineering in Unioeste, and Scholarship Holder in Itaipu Technological Park.
+- 👀 I’m interested in Internet of Things, and related.
+- 🏢 I’m currently developing Smart Office related solutions.
+- 📫 I can be reached on my personal email (antunes.leonardo.a@gmail.com).
