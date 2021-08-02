@@ -1,4 +1,4 @@
-- 👋 Hi, I am Leonardo Antunes (@Antunes-Leo).
+- 👋 Hi, I am Leonardo Antunes (@AntunesLeonardo).
 - 🎓 I am student of Electrical Engineering in Unioeste, and Scholarship Holder in Itaipu Technological Park.
 - 👀 I’m interested in Internet of Things, and related.
 - 🏢 I’m currently developing Smart Office related solutions.
