@@ -3,8 +3,8 @@
 ##
   
 - 🎓 Student of Electrical Engineering in Unioeste - Foz do Iguaçu.
-- 💻 Intern in Itaipu.
-- 👀 Interested in Internet of Things, Dynamic Systems, and Robotics.
+- 💻 Intern at Itaipu Technological Park - PTI.
+- 👀 Interested in Internet of Things, Machine Learning, and Robotics.
 
 ##
   
